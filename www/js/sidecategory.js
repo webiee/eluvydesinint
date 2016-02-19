@@ -107,7 +107,7 @@
                //if(data[key].id==143 || data[key].id==130)
             
                //{
-               		main_menu += '<li><a href="#" onclick="Widget.updateSliderMenu('+data[key].id+', 0);">'+data[key].name+'</a></li>';
+               		main_menu += '<li>dsfsdfsdfds<a href="#" onclick="Widget.updateSliderMenu('+data[key].id+', 0);">'+data[key].name+'</a></li>';
                //}
            }
         }
